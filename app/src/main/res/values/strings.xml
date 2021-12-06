@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio01</string>
+    <string name="tv_cifra1">Ingrese primera cifra</string>
+    <string name="tv_cifra2">Ingrese segunda cifra</string>
+    <string name="et_cifra1">Ingrese primera cifra</string>
+    <string name="et_cifra2">Ingrese segunda cifra</string>
+    <string name="bt_Calcular">Calcular</string>
+</resources>
