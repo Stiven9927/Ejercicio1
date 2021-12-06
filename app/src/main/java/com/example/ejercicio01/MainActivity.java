@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void OnCreateCalcular(View view){
         resul = numero1 * numero2;
-        resulparc1.setText(String.valueOf(Integer.valueOf(resul)));
+        //resulparc1.setText(String.valueOf(Integer.valueOf(resul)));
     }
 
 }
